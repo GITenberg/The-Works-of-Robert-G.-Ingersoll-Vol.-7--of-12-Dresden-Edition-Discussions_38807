@@ -1,0 +1,38 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-7--of-12-Dresden-Edition-Discussions_38807
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: My reviewers reviewed -- My Chicago Bible class -- To the Indianapolis
+  clergy -- The Brooklyn divines -- The limitations of toleration -- A Christmas sermon
+  -- Suicide of Judge Normile -- Is suicide a sin? -- Is avarice triumphant? -- A
+  reply to the Cincinnati Gazette and Catholic Telegraph -- An interview on Chief
+  Justice Comegys -- A reply to Rev. Drs. Thomas and Lorimer -- A reply to Rev. John
+  Hall and Warner Van Norden -- A reply to the Rev. Dr. Plumb -- A reply to the New
+  York clergy on superstition.
+title: "The Works of Robert G. Ingersoll, Vol. 07 (of 12)\r\nDresden Edition—Discussions"
+url: http://www.gutenberg.org/ebooks/38807
